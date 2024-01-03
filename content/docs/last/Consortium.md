@@ -10,3 +10,4 @@ title: "Consortium"
 * [Federico Cerutti](https://federico-cerutti.unibs.it/), [Università degli Studi di Brescia](https://www.unibs.it/), PI
 * [Danilo Giordano](https://dbdmg.polito.it/dbdmg_web/people/danilo-giordano/), [Politecnico di Torino](https://www.polito.it/), co-I, vice-PI
 * [Idilio Drago](https://sites.google.com/site/idiliod/home), [Università di Torino](https://www.unito.it/), co-I
+* [Rodolfo Vieira Valentim](https://scholar.google.com.br/citations?user=UyUSGS0AAAAJ&hl=pt-BR), [Università di Torino](https://www.unito.it/), Researcher

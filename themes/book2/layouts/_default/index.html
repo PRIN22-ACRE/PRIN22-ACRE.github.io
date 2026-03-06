@@ -1,1 +1,14 @@
-{{ with .GetPage "/docs/last" }}{{ .Content }}{{ end }}
+{{ define "main" }}
+  <article class="markdown">
+    {{ with .GetPage "/docs/last" }}
+      {{ .Content }}
+      {{ with .Pages.ByWeight }}
+        <ul>
+          {{ range . }}
+            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    {{ end }}
+  </article>
+{{ end }}
